@@ -1,1 +1,1 @@
-# dmp-json-schema
+# JSON Schema for Machine Actionable DMP
