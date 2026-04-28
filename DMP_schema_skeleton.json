@@ -226,27 +226,31 @@
       }
     ],
     "provenance": "",
-    "narrative": {
+    "dmproadmap_template": {
+      "id": "",
       "title": "",
-      "section": [
-        {
-          "order": "",
-          "title": "",
-          "description": "",
-          "question": [
-            {
-              "order": "",
-              "text": "",
-              "answer": {
-                "json": {
-                  "answer": "",
-                  "type": ""
+      "narrative": {
+        "title": "",
+        "section": [
+          {
+            "order": "",
+            "title": "",
+            "description": "",
+            "question": [
+              {
+                "order": "",
+                "text": "",
+                "answer": {
+                  "json": {
+                    "answer": "",
+                    "type": ""
+                  }
                 }
               }
-            }
-          ]
-        }
-      ]
+            ]
+          }
+        ]
+      }
     }
   }
 }
