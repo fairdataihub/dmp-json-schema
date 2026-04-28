@@ -170,12 +170,10 @@ dmp
 │
 ├── provenance [0..1]
 │
-└── dmproadmap_template [0..1]
+└── narrative [0..1]
     ├── id [0..1]
     ├── title [0..1]
-    └── narrative [0..1]
-        ├── title [0..1]
-        └── section [0..n]
+    └── section [0..n]
             ├── order [0..1]
             ├── title [0..1]
             ├── description [0..1]
