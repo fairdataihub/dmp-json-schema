@@ -1,7 +1,16 @@
 
-# RDA DMP Common Standard for machine-actionable Data Management Plans
+# JSON-style Schema Skeletons 
 
-RDA DMP Common Standard for machine-actionable Data Management Plans, with an additional `dmproadmap_template` object for preserving DMPTool 
+## 1. RDA maDMP Schema
+This is the base standard schema for structured DMP metadata.
+
+## 2. DMPTool Schema
+This schema follows the DMPTool integration structure.
+
+## 3. DMPTool Narrative Extension
+This part focuses only on the DMPTool-specific narrative layer.
+
+
 ```text
 dmp
 ├── dmp_id [1]
