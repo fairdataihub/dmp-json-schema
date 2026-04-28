@@ -1,30 +1,33 @@
 {
-  "dmp_id": {
-    "identifier": "",
-    "type": ""
-  },
-  "provenance": "dmpbridge",
-  "narrative": {
-    "title": "",
-    "id": null,
-    "section": [
-      {
-        "order": null,
-        "title": "",
-        "description": "",
-        "question": [
-          {
-            "order": null,
-            "text": "",
-            "answer": {
-              "json": {
-                "answer": "",
-                "type": ""
+  "$schema": "./JSON-schema/1.2/maDMP-schema-1.2.json",
+  "dmp": {
+    "dmp_id": {
+      "identifier": "",
+      "type": ""
+    },
+    "provenance": "dmpbridge",
+    "narrative": {
+      "title": "",
+      "id": null,
+      "section": [
+        {
+          "order": null,
+          "title": "",
+          "description": "",
+          "question": [
+            {
+              "order": null,
+              "text": "",
+              "answer": {
+                "json": {
+                  "answer": "",
+                  "type": ""
+                }
               }
             }
-          }
-        ]
-      }
-    ]
+          ]
+        }
+      ]
+    }
   }
 }
