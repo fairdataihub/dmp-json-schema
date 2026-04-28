@@ -180,7 +180,6 @@ dmp
 ├── provenance [0..1]
 │
 └── narrative [0..1]
-    ├── id [0..1]
     ├── title [0..1]
     └── section [0..n]
             ├── order [0..1]
