@@ -1,33 +1,26 @@
 {
-  "$schema": "./JSON-schema/1.2/dmptools-narrarive-schema-1.2.json",
-  "dmp": {
-    "dmp_id": {
-      "identifier": "",
-      "type": ""
-    },
-    "provenance": "dmpbridge",
-    "narrative": {
-      "title": "",
-      "id": null,
-      "section": [
-        {
-          "order": null,
-          "title": "",
-          "description": "",
-          "question": [
-            {
-              "order": null,
-              "text": "",
-              "answer": {
-                "json": {
-                  "answer": "",
-                  "type": ""
-                }
+  "provenance": "dmpbridge",
+  "narrative": {
+    "title": "",
+    "id": null,
+    "section": [
+      {
+        "order": null,
+        "title": "",
+        "description": "",
+        "question": [
+          {
+            "order": null,
+            "text": "",
+            "answer": {
+              "json": {
+                "answer": "",
+                "type": ""
               }
             }
-          ]
-        }
-      ]
-    }
+          }
+        ]
+      }
+    ]
   }
 }
