@@ -10,7 +10,7 @@ This schema follows the DMPTool integration structure.
 ## 3. DMPTool Narrative Extension
 This part focuses only on the DMPTool-specific narrative layer.
 
-
+Please note that the overall structure of the final combined schema may change.
 ```text
 dmp
 ├── dmp_id [1]
