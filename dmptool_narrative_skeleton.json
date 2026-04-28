@@ -1,0 +1,30 @@
+{
+  "dmp_id": {
+    "identifier": "",
+    "type": ""
+  },
+  "provenance": "dmpbridge",
+  "narrative": {
+    "title": "",
+    "id": null,
+    "section": [
+      {
+        "order": null,
+        "title": "",
+        "description": "",
+        "question": [
+          {
+            "order": null,
+            "text": "",
+            "answer": {
+              "json": {
+                "answer": "",
+                "type": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
