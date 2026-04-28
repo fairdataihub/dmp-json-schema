@@ -1,10 +1,7 @@
-# JSON Schema for Machine Actionable DMP
+
 # RDA DMP Common Standard for machine-actionable Data Management Plans
-```text
-# JSON Schema for Machine-Actionable DMP
 
-RDA DMP Common Standard for machine-actionable Data Management Plans, with an additional `dmproadmap_template` object for preserving DMPTool / DMP Roadmap template narrative structure.
-
+RDA DMP Common Standard for machine-actionable Data Management Plans, with an additional `dmproadmap_template` object for preserving DMPTool 
 ```text
 dmp
 ├── dmp_id [1]
